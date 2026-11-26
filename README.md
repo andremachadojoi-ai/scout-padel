@@ -1,4 +1,4 @@
-# Scout Padel — V2
+# Scout Padel — V2 (GitHub Pages)
 
 Aplicativo web progressivo (PWA) para registrar scouts de partidas de padel.
 
