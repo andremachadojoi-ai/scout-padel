@@ -1,0 +1,8 @@
+{
+  "name": "Scout Padel",
+  "short_name": "Scout",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#101827"
+}
